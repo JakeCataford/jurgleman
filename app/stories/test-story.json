@@ -1,0 +1,18 @@
+[
+  {
+    "label" : "start",
+    "text" : "Hello welcome to jurgle. A for fuck you, B for i love you.",
+    "choices" : ["i love you", "fuck you"]
+  },
+
+  {
+    "label" : "i love you",
+    "text" : "i love you"
+  },
+
+  {
+    "label" : "fuck you",
+    "text" : "pick again fuckker",
+    "choices" : ["i love you", "fuck you"]
+  }
+]
