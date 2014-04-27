@@ -1,0 +1,92 @@
+[
+	{
+		"label" : "start",
+		"text" : "You open your eyes. You have awoken. You stand up. You hear the screams of a monkey in the distance.
+		You are slightly frightened. You are in the JUNGLE OF JURGLE (REGISTERED TRADE MARK OF GONZO CORP). There are two
+		dirt paths right infront of you. Do you (A) go down the left path or (B) go down the right path?",
+		"choices" : ["left path", "right path"] 
+	},
+
+	{
+		"label" : "left path",
+		"text" : "You begin walking down the left the path. Many more monkey screams occur. The trees become more dense as
+		you walk. The monkey screams become even more frequent and profoundly intense. You can no longer hear your own 
+		footsteps. The monkey screams become so invasive and hideous that you start to lose your train of thought. You
+		begin to sweat. Even though it is morning, there is barely any light reaching the path. The darkness disturbs you.
+		You continue walking. It feels like days have gone by. Your fear intensifies as you finally see a light the end of 
+		the path. It gets brighter and brighter as you get closer. You walk through the light. After a brief moment of 
+		blindness your vision returns. The sound of the monkeys has become deafening. In front of you is a giant volcano. 
+		Millions up millions of monkeys are being shot into the air from the volcano. You are stuck in a gaze. Do you (A)
+		attempt to catch a monkey or (B) run back to where you woke up.",
+		"choices" : ["catch monkey", "run back"]
+
+	},
+
+	{
+		"label" : "right",
+		"text" : "You begin walking down the right path. You notice an odour not too dissimilar to that of eggs. You vomit
+		and pass the fuck out. You never wake up. You have inahled a truly poisonous gas. Sorry."
+	},
+
+	{
+		"label" : "catch monkey",
+		"text" : "You open up your hands and look towards the sky. You see a small black figure fall towards you. It gets 
+		bigger and bigger as it falls. You position your hands to be above the shadow the monkey is creaying on the ground.
+		FLOOMFFF. The monkey lands in your arms. Immediately another monkey hits the ground right beside you and explodes 
+		creating a gory bloody mess. You look towards the curled up monkey in your arms. You smile like a mother who has
+		just successfully given birth after experiencing MANY miscarriages. The monkey slowly uncurls itself. It opens its
+		eyes. It opens its legs. It is a male monkey. Do you (A) name the monkey or (B) kiss the monkey.",
+		"choices" : ["name monkey", "kiss monkey"]
+	},
+
+	{
+		"label" : "run back",
+		"text" : "You begin to run back down the path you came to the volcano from. Monkeys are falling to the ground all 
+		around you. A few of them fall through the trees as you are running. Light hits the path through the hole these 
+		monkeys have cause. The light is shining on the destroyed monkey corpses. You keep on running. You have to make 
+		it back. Unfortuneatly, a monkey lands on your head head-first. Both your skulls explode. You have died. THE END."
+	},
+
+	{
+		"label" : "name monkey",
+		"text" : "You exclaim: \"O BELOVED MONKEY, I NAME THEE JURGLEMONKEY. YOU SHALL BE MY PROTECTOR AND JOURNEY BUDDY!\"
+		The monkey starts to shake. You drop him to the ground. He lands on his feet. He stares at you for a good 3 minutes
+		with his mouth wide open. Salive drips slowly to the ground. The monkey's hair becomes to shed without him moving.
+		The monkey begins to grow. All of his eatures become more human. His penis grows immensly. Tears flow from his eyes
+		mixing with the saliva in his mouth. He declares ver loudly: \"I'M NO MONKEY. I'M A MAN. I AM, JURGLEMAN\". Do you 
+		(A) run for your life or (B) kick jurgleman in the dick.",
+		"choices" : ["run", "dick kick"]
+	},
+
+	{
+		"label" : "run",
+		"text" : "You begin running straight towards the volcano. Monkeys are falling to the ground all around you. Jurgleman
+		follows after you. You trip on a dead monkey and land face first into another dead monkey. Jurgleman picks up a dead
+		monkey. He swallows the dead monkey. Blood is all around his lips. You quickly get up. You continue running towards 
+		the volcano. Jurgleman forgets about you and continues to eat monkeys. You reach the top of the volcano. For some
+		reason you decide to jump into the seemingly infinite stream of monkeys being unleashed into the atmosphere. It is not
+		as painful as you imagined it would be. You are skyrocketed into the sky. You look down towards the earth. You reach 
+		the highest point of your trajectory. You begin to fall. You accelerate towards the earth. It is the end and you know it.
+		You pray to God to land on Jurgleman. Instead, you land in quicksand. As you sink slowly to your death you see Jurgleman.
+		He is no longer consuming monkeys. He is catching them. Before the sand fills up your lungs, you witness 3 monkeys
+		turn into Jurglemen. THE END"
+	},
+
+	{
+		"label" : "dick kick",
+		"text" : "You kick Jurgleman in the dick. He screams in agony and falls to the ground. A monkey falls from the sky and
+		lands on Jurgleman's body. It and Jurgleman survive the impact. Jurgleman man grabs the monkey by the pits and lifts
+		it up towards you. There are tears in his eyes as he screams: \"LOOK, THIS IS MY SISTER. SHE HAS NO PEEPEE. SHE HAS
+		A COOCHIE.\" You are amazed at Jurgleman's ability to speak english. You are also amazed by the monkey he was holding.
+		She starts to grow in the same way the jurgleman grew. Her hair sheds off. She becomes human. Her breasts become large.
+		She looks at you. Saliva falls to the ground from her mouth. She then looks at Jurgleman and screams: \"LET US PROCREATE.
+		LET US CREATE THE JURGLE DYNASTY. WE SHALL BE THE RULERS OF THE JUNGLE OF JURGLE. OUR CHILDREN SHALL BE GLORIOUS.\"
+		Before Jurgleman and his queen begin to mate you start to run for your life. You head towards the volcano. You have to
+		stop this. This is fucked. You reach the top of the volcano. You stare down beneath you. You can see the heads of the surviving
+		monkeys, except they are no longer monkeys. You begin to realize that it is too late. The stream of monkeys coming out
+		of the volcano immediately stops. A hand reachs out from the edge of the volcano's maw. A man comes out. His hair is grey.
+		He is a Jurglecopy. You know this because he looks exactly like Jurgleman. You hear him fart. You hear rustling in the bushes.
+		About 5000 Jurglecopies emerge from the bushes. They fart as one. You begin to smell eggs. You pass the fuck out. You never wake up.
+		The Jurgle dynasty rules forever. THE END"
+	}
+]
